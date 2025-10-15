@@ -47,3 +47,6 @@ AWS RDS PostgreSQL과 OAuth2 인증을 사용하는 Spring Boot 블로그 애플
 bash
 git clone https://github.com/your-username/shin-springboot-developer.git
 cd shin-springboot-developer
+
+### 2단계: CICD
+AWS 설정
